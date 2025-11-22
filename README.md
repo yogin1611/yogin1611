@@ -85,18 +85,4 @@ Computer Science undergrad (B.E. — MVJ College of Engineering, Class of 2026) 
 
 ---
 
-## 🔧 How to use this README
-- Replace any placeholder links with your actual repo URLs (for each project).
-- Add badges (build, npm, or GitHub actions) at the top if you want quick status signals.
-- Pin the repos on your GitHub profile that showcase the projects listed above.
-- Keep the "Selected Projects" short — users can click through to the repo for details.
 
----
-
-## 🙌 Want help?
-If you'd like, I can:
-- Generate `README.md` with live repo links if you give me the GitHub repo URLs,
-- Create short repo READMEs (detailed setup, run, demo GIF, contribution guide) for any 2–3 projects,
-- Or export this README into a file and provide a downloadable link.
-
-(Resume used to create this README: source attached.) :contentReference[oaicite:1]{index=1}
